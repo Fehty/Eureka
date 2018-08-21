@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_toDo"
+        android:icon="@drawable/to_do_list"
+        android:title="@string/menu_to_do" />
+
+    <item
+        android:id="@+id/menu_schedule"
+        android:icon="@drawable/schedule"
+        android:title="@string/schedule" />
+
+    <item
+        android:id="@+id/menu_chat"
+        android:icon="@drawable/chat"
+        android:title="@string/chat" />
+
+    <item
+        android:id="@+id/menu_homeWork"
+        android:icon="@drawable/home_work"
+        android:title="@string/home_work" />
+
+    <item
+        android:id="@+id/menu_site"
+        android:icon="@drawable/web"
+        android:title="@string/site" />
+</menu>

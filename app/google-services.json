@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1004695585536",
+    "firebase_url": "https://eurika-bdf1a.firebaseio.com",
+    "project_id": "eurika-bdf1a",
+    "storage_bucket": "eurika-bdf1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004695585536:android:fbed98fabf233708",
+        "android_client_info": {
+          "package_name": "com.fehtystudio.eurika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004695585536-khcb0jadurn2v6dcb5qi9h834fc5nsrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fehtystudio.eurika",
+            "certificate_hash": "cb8e9dda2d8f8e99abedde2410fc811cbe5656a6"
+          }
+        },
+        {
+          "client_id": "1004695585536-s2c322j7mhs5i5rrg7jvhiu6qnt6ke15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqPkOyS7jntHVGoaTRECnmXdZJq5FnGrE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004695585536-s2c322j7mhs5i5rrg7jvhiu6qnt6ke15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
